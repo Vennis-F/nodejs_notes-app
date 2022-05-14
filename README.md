@@ -1,21 +1,17 @@
-# nodejs_notes-app
+# notes-app
 
-<!-- Add note
+## Add note
 
-node app.js add --title="<title>" --body="<body>"
- -->
+- node app.js add --title="<title>" --body="<body>"
 
-<!-- Remove note
+## Remove note
 
-node app.js remove --title="<title>"
- -->
+- app.js remove --title="<title>"
 
- <!-- List notes
+## List notes
 
-node app.js list
- -->
+- node app.js list
 
- <!-- Read note
+## Read note
 
-node app.js read --title="<title>" 
- -->
+- node app.js read --title="<title>"
